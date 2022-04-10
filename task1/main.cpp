@@ -11,3 +11,4 @@ int main(){
     cout<<"S = "<<square_s<<endl;
     return 0;
 }
+
